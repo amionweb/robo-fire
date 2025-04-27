@@ -4,7 +4,7 @@ An exciting arcade-style game where you control a robot shooting down clouds and
 
 ## 🎮 Play Now
 
-[Play RoboFire: Cloud Clash](https://robofire-cloud-clash.netlify.app)
+[Play RoboFire: Cloud Clash](https://robo-fire.vercel.app/)
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ An exciting arcade-style game where you control a robot shooting down clouds and
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/robofire-cloud-clash.git
+git clone https://github.com/amionweb/robo-fire
 
 # Navigate to the project directory
 cd robofire-cloud-clash
@@ -70,4 +70,4 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 ## 🌟 Credits
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Amionweb
